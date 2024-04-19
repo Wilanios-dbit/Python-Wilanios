@@ -35,31 +35,9 @@
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/Luffy"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
-
-<div align="center">
-  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/Luffy/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Luffy">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Luffy?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/Luffy/" target="_blank">Luffy Monkey</a><br>
-  <small> Second Edition: July, 2021</small>
-  </sub>
-</div>
-
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍 30 Days Of Python](#-30-days-of-python)
 - [📘 Day 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
